@@ -1,7 +1,7 @@
 (function () {
   const styleSheet = `
                 .custom-button-menus li a {
-                background-color: #ff5252 !important;
+                background-color: #37ca37 !important;
                 width: 100%;
                 text-align: center;
                 display: flex;
